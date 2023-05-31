@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Tuazon Personal Portfolio 🔥
 > https://github.com/FTUAZON
 
 :star: Star me on GitHub — it helps!
